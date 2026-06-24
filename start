@@ -1,3 +1,1 @@
 uv run python3 -m anony
-from keep_alive import keep_alive
-keep_alive()
